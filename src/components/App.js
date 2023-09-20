@@ -98,7 +98,7 @@ function App() {
         {data.map((item) => (
           <div className="card">
             <div className="image">
-              <img src={item.img} />
+             <img src={item.img}/>
             </div>
 
             <div className="information">
